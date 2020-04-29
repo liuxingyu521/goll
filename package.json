@@ -1,6 +1,6 @@
 {
   "name": "goll",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "开发脚手架工具,快速创建工程",
   "main": "src/index.js",
   "bin": {
