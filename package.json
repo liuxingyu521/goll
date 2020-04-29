@@ -1,0 +1,18 @@
+{
+  "name": "goll",
+  "version": "0.0.1",
+  "description": "开发脚手架工具,快速创建工程",
+  "main": "src/index.js",
+  "bin": {
+    "goll": "bin/index.js"
+  },
+  "repository": "git@github.com:liuxingyu521/goll.git",
+  "author": "liuxingyu521 <xuj_power@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "ora": "^4.0.4"
+  }
+}
