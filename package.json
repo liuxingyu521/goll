@@ -9,7 +9,7 @@
   "repository": "git@github.com:liuxingyu521/goll.git",
   "author": "liuxingyu521 <xuj_power@qq.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.0.0",
     "commander": "^5.1.0",
     "download-git-repo": "^3.0.2",
